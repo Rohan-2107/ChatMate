@@ -10,7 +10,9 @@
         <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/drawable/background_icon.xml" value="0.1" />
         <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/drawable/background_image.xml" value="0.1" />
         <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/drawable/background_input.xml" value="0.1" />
+        <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/drawable/background_received_message.xml" value="0.1" />
         <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/drawable/background_send_message.xml" value="0.1" />
+        <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/drawable/ic_back.xml" value="0.1" />
         <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/layout/activity_chat.xml" value="0.22" />
         <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/layout/activity_sign_in.xml" value="0.22" />
@@ -20,6 +22,8 @@
         <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/layout/item_container_recent_conversion.xml" value="0.22" />
         <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/layout/item_container_sent_message.xml" value="0.14666666666666667" />
         <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/layout/item_container_user.xml" value="0.1578125" />
+        <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/rohan/OneDrive/Desktop/Android/ChatMate/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
     </option>
   </component>
